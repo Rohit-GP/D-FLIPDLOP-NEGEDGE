@@ -54,14 +54,14 @@ module d_ff_neg_edge (d, clk, rst, q);
 endmodule
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR THE FLIPFLOP**
 
 ![SharedScreenshot](https://github.com/user-attachments/assets/935ea805-c9e6-4824-ae76-40702ce0e9c4)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR THE FLIPFLOP**
 
 ![d](https://github.com/user-attachments/assets/2e4082c1-fc07-400a-a3d4-c036a0aaac0c)
 
-**RESULTS**
+**RESULT**
 
 Successfully implemented the D flipflop using verilog and validated their functionality using their functional tables.
